@@ -1,2 +1,3 @@
 # AIFFEL_Online_Quest
-test용입니다.
+
+AIFFEL 온라인 퀘스트 레포지토리입니다!
